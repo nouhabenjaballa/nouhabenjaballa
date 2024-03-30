@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52312456697",
+    "project_id": "blogger-apis-9adec",
+    "storage_bucket": "blogger-apis-9adec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52312456697:android:798fd409bd5bf7b0d0d128",
+        "android_client_info": {
+          "package_name": "com.example.formationstage2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWZKpBKbRtTOtLpNVqMyB-9jhTm_lklU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
